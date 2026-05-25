@@ -1,0 +1,9 @@
+TAILWIND
+
+see how to add tailwind from its website
+
+
+PROPS
+
+props make the component reusable;
+
