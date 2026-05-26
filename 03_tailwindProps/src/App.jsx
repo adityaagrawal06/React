@@ -18,7 +18,7 @@ function App() {
       <h1 className="text-3xl font-bold underline bg-green-500 p-4 rounded-xl">Bg Tailwind</h1>
       <Card channel={myObj.channel} name={myObj.name} myArray={myArr} /> // passing props to card component
       <Card channel="adiiiiii" name="Adityaaaaa" myArray={arr} />
-      <Card channel="adiiiiii"  /> //if do not pass a prop then it will be undefined in the card component
+      <Card channel="adiiiiii"  /> //if do not pass a prop then it will have default value in the card component
 
       
     </>
